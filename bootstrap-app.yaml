@@ -9,7 +9,7 @@ spec:
     namespace: student-13
   project: default
   source:
-    repoURL: <YOUR GITHUB REPO>
+    repoURL: https://github.com/MaxAtSparNord/argocd-katas
     targetRevision: HEAD
     path: apps
   syncPolicy:
